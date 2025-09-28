@@ -1,6 +1,6 @@
 # PHP-Basic
 1. Embedding in HTML
-2. 2. Outputting Content
+2. Outputting Content
 3. Variables
 4. Data Types
 5. Operators

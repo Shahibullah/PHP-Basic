@@ -1,8 +1,8 @@
-<?php  
-    $i = 0 ;
-    while($i <= 5)
-    {
-        echo "count $i<br>";
-        $i++;
-    };
-?>
+<?php 
+    $user = "admin";
+    $password = "AB12";
+    if ($user === "admin" && $password = "AB12"){
+        echo "welcome!";
+    }
+    else echo "Sorry wrong entry";
+    ?>

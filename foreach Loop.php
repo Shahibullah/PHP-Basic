@@ -7,3 +7,13 @@ foreach ($fruits as $index => $fruit) {
 echo "<br>";
 print_r($fruits);
 ?>
+
+<?php
+$fruits = ["Apple", "Banana", "Mango"];
+
+foreach ($fruits as $index) {
+    echo "$fruit [$index] : <br>";
+};
+echo "<br>";
+print_r($fruits);
+?>

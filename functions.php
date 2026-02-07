@@ -1,5 +1,5 @@
 <?php
-function checkUser($user) {
+function checkUser(string $user) {
     if (isset($user)) {
         return "User is: $user";
     } else {
@@ -9,3 +9,4 @@ function checkUser($user) {
 
 echo checkUser("Shahib");
 ?>
+
